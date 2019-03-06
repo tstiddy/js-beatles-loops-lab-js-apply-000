@@ -1,1 +1,1 @@
-var musicians 
+var musicians = ['']
