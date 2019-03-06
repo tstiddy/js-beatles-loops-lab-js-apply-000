@@ -15,7 +15,7 @@ const facts = ["He was the last Beatle to learn to drive", "He was never a veget
 function johnLennonFacts(facts) {
   var array = [];
   let i = 0;
-  while (facts.length > i) {
+  while (facts.length > i) { //while the no. of facts is more than i (0) it will populate the array
     array.push(`${facts[i]}!!!`)
     i++
   }
