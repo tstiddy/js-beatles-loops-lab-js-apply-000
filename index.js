@@ -15,6 +15,8 @@ var facts = ["He was the last Beatle to learn to drive", "He was never a vegetar
 function johnLennonFacts(facts) {
   var array = [];
   let i = 0;
-  while (facts.length > i)
+  while (facts.length > i) {
+    
+  }
 }
 
