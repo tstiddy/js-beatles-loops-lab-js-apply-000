@@ -14,7 +14,7 @@ var facts = ["He was the last Beatle to learn to drive", "He was never a vegetar
 
 function johnLennonFacts(facts) {
   while () {
-    facts[n]
+    facts[n] + !!!
   }
 }
 
