@@ -1,3 +1,3 @@
 var musicians = ["John", "Paul", "George", "Ringo"];
 
-var instruments = ["Guitar", ]
+var instruments = ["Guitar", "Guitar", ]
