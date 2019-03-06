@@ -1,4 +1,4 @@
-var musicians = ["John Lennon", "Paul Mc", "George", "Ringo"]; //declare arrays
+var musicians = ["John Lennon", "Paul McCartney", "George", "Ringo"]; //declare arrays
 
 var instruments = ["Guitar", "Guitar", "Bass", "Drums"];
 
