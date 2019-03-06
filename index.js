@@ -26,9 +26,9 @@ function iLoveTheBeatles(number) {
   var array = [];
   
   do {
-    array.push('I love the Beatles!')
-    number++
+    array.push('I love the Beatles!') //create I love the beatles in array
+    number++ //increases the number 
   }
-  while(number < 15);
-  return array;
+  while(number < 15); //only creates the array as long as number is less than 15
+  return array; //return the array
 }
